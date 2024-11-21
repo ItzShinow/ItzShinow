@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ItzShinow" alt="Shinow's GitHub stats" style="display: inline-block;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ItzShinow&show_icons=true&theme=transparent" alt="Shinow's GitHub stats" style="display: inline-block;" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzShinow&layout=compact" alt="Top Languages" style="display: inline-block;" />
 </div>
