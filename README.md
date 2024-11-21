@@ -38,3 +38,7 @@
     <img src="https://lanyard.cnrad.dev/api/572043032585830403" alt="Discord Presence" />
   </a>
 </div>
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.2.0
+            
