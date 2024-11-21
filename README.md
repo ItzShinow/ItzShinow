@@ -1,4 +1,4 @@
-<p align="center"> 
+<p style="text-align: center;"> 
   <h2> Hi 👋🏽, I'm Shinow </h2> 
 </p>
 
