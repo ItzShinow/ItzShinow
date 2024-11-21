@@ -9,18 +9,10 @@
 - ☕ I’m currently learning **HTML**, **CSS**, and **JavaScript**.
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=ItzShinow" alt="Shinow's GitHub stats" />
-        </a>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzShinow&layout=compact" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ItzShinow" alt="Shinow's GitHub stats" style="display: inline-block;" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzShinow&layout=compact" alt="Top Languages" style="display: inline-block;" />
 </div>
 
 ---
