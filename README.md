@@ -14,7 +14,6 @@
   </a>
 </p>
 
-
 <div align="center"> 
   <h2>📊 My Stats:</h2>
 </div>
@@ -26,7 +25,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzShinow&layout=compact&theme=slateorange&show_icons=true" alt="Top Languages" style="display: inline-block;" />
 </div>
 
----
+<div align="center"> 
+  <h2>🔮 Discord Activity:</h2>
+</div>
 
 <div align="center">
   <a href="https://discord.com/users/572043032585830403">
