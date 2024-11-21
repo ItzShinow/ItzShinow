@@ -1,4 +1,4 @@
-<div align="center"> <h2> Hi 👋🏽, I'm **Shinow** </h2> </div>
+<div align="center"> <h2> Hi 👋🏽, I'm Shinow </h2> </div>
 
 - ☕ I’m currently learning **HTML**, **CSS** and **Java Script**.
 
