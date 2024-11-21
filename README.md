@@ -19,7 +19,7 @@
   <h2>🧩 Socials:</h2>
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31usjd2c4fwkak7r4la5mqxv6tuu&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31usjd2c4fwkak7r4la5mqxv6tuu&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31usjd2c4fwkak7r4la5mqxv6tuu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31usjd2c4fwkak7r4la5mqxv6tuu&redirect=true)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
