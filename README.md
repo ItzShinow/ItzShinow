@@ -22,8 +22,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ItzShinow&theme=slateorange&show_icons=true" alt="Shinow's GitHub stats" style="display: inline-block;" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzShinow&layout=compact&theme=slateorange&show_icons=true" alt="Top Languages" style="display: inline-block;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fayzeen&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzShinow&layout=compact&theme=slateorange&show_icons=true" alt="Top Languages" style="display: inline-block;" />
+</p> 
 
 <div align="center"> 
   <h2>🔮 Discord Activity:</h2>
