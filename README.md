@@ -1,16 +1,25 @@
-<center> 
-  <h2> Hi 👋🏽, I'm Shinow </h2> 
-<center>
+<div align="center"> 
+  <h2>Hi 👋🏽, I'm Shinow</h2>
+</div>
 
-<p align="center"> 
-  <h2> My Stats 📊 </h2> 
-</p>
+<div align="center"> 
+  <h2>My Stats 📊</h2>
+</div>
 
-- ☕ I’m currently learning **HTML**, **CSS** and **Java Script**.
+- ☕ I’m currently learning **HTML**, **CSS**, and **JavaScript**.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzShinow)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ItzShinow" alt="Shinow's GitHub stats" />
+  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzShinow&layout=compact" alt="Top Languages" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzShinow&layout=compact)
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/572043032585830403)](https://discord.com/users/572043032585830403)
+<div align="center">
+  <a href="https://discord.com/users/572043032585830403">
+    <img src="https://lanyard.cnrad.dev/api/572043032585830403" alt="Discord Presence" />
+  </a>
+</div>
