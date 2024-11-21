@@ -1,6 +1,6 @@
-<p style="text-align: center;"> 
+<center> 
   <h2> Hi 👋🏽, I'm Shinow </h2> 
-</p>
+<center>
 
 <p align="center"> 
   <h2> My Stats 📊 </h2> 
