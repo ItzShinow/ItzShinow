@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Shinow" alt="Typing SVG" /></a>
 </h1>
 
- ☕ I’m currently learning **Java** & **JavaScript**...
+> ☕ I’m currently learning **Java** & **JavaScript**...
 
 <div align="center"> 
   <h2>💻 My Tech Stats:</h2>
