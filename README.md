@@ -4,6 +4,10 @@
 
 ---
 
+<div align="center"> 
+  <h2> My Stats 📊 </h2> 
+</div>
+
 - ☕ I’m currently learning **HTML**, **CSS** and **Java Script**.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzShinow)](https://github.com/anuraghazra/github-readme-stats)
