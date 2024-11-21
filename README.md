@@ -1,6 +1,6 @@
-<div align="center"> 
-  <h2>Hi 👋🏽, I'm Shinow</h2>
-</div>
+<p align="center"> 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Shinow)](https://git.io/typing-svg)
+</p>
 
 > ☕ I’m currently learning **Java** & **JavaScript**.
 
@@ -13,6 +13,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,figma,vscode,github,ps,pr" />
   </a>
 </p>
+
+<div align="center"> 
+  <h2>🧩 Socials:</h2>
+</div>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31usjd2c4fwkak7r4la5mqxv6tuu&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31usjd2c4fwkak7r4la5mqxv6tuu&redirect=true)
 
 <div align="center"> 
   <h2>📊 My Stats:</h2>
@@ -39,6 +45,4 @@
   </a>
 </div>
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.2.0
-            
+
