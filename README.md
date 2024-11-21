@@ -34,20 +34,21 @@
   <h2>🧩 Socials:</h2>
 </div>
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31usjd2c4fwkak7r4la5mqxv6tuu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=false" />
-  </a>
-</p>
-
-<div align="center"> 
-  <h2>🔮 Discord Activity:</h2>
-</div>
-
 <div align="center">
   <a href="https://discord.com/users/572043032585830403">
     <img src="https://lanyard.cnrad.dev/api/572043032585830403" alt="Discord Presence" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31usjd2c4fwkak7r4la5mqxv6tuu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=false" />
   </a>
 </div>
 
+name: Favorites manga and currently reading
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.anilist.manga.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_anilist: yes
+  plugin_anilist_medias: manga
+  plugin_anilist_sections: favorites, reading
+  plugin_anilist_limit: 1
 
