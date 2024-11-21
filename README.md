@@ -1,6 +1,6 @@
-<div align="center"> 
+<p align="center"> 
   <h2> Hi 👋🏽, I'm Shinow </h2> 
-</div>
+</p>
 
 ---
 
