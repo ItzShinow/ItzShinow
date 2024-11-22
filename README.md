@@ -17,13 +17,10 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ItzShinow&theme=dark&show_icons=true" alt="Shinow's GitHub stats" style="display: inline-block;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzShinow&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzShinow&layout=compact&theme=dark&show_icons=true" alt="Top Languages" style="display: inline-block;" />
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ItzShinow&theme=dark&show_icons=true&hide_border=true" alt="Shinow's GitHub stats" style="display: inline-block;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzShinow&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzShinow&layout=compact&theme=dark&show_icons=true&hide_border=true" alt="Top Languages" style="display: inline-block;" />
+</div> 
 
 <div align="center"> 
   <h2>🧩 Socials:</h2>
