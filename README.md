@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/572043032585830403">
-    <img src="https://lanyard.cnrad.dev/api/572043032585830403" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/572043032585830403" height="120" alt="Discord Presence" />
   </a>
   <a hred="https://open.spotify.com/user/31usjd2c4fwkak7r4la5mqxv6tuu?si=6e6ed892d99648c4">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31usjd2c4fwkak7r4la5mqxv6tuu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=false" />
