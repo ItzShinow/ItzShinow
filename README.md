@@ -4,7 +4,7 @@
 
 ### 
 
-<h3 align="center">☕ I’m currently learning <b>Java</b> & <b>JavaScript</b>...</h3>
+<h4 align="center">☕ I’m currently learning <b>Java</b> & <b>JavaScript</b>...</h4>
 
 ### 
 
