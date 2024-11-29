@@ -2,22 +2,32 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Shinow" alt="Typing SVG" /></a>
 </h1>
 
-### 
-
-<h4 align="center">☕ I’m currently learning <b>Java</b> & <b>JavaScript</b>...</h4>
-
-### 
-
 <div align="center"> 
-  <h2>💻 My Tech Stats:</h2>
+  <h2>📖 Learning:</h2>
 </div>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,figma,vscode,github,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=java,js,blender" />
 </p>
 
 <div align="center"> 
-  <h2>📊 My Stats:</h2>
+  <h2>💻 Tech Stack:</h2>
+</div>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+<div align="center"> 
+  <h2>💻 Tools:</h2>
+</div>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,github,ps,pr,figma" />
+</p>
+
+<div align="center"> 
+  <h2>📊 Stats:</h2>
 </div>
 
 <div align="center">
