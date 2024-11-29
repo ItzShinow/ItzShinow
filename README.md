@@ -10,9 +10,9 @@
     <img src="https://skillicons.dev/icons?i=java,js,blender" />
 </p>
 
-<div align="center"> 
+<p align="center"> 
   <h2>💻 Tech Stack:</h2>
-</div>
+</p>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css" />
