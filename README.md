@@ -12,6 +12,8 @@
     <img src="https://skillicons.dev/icons?i=java,js,react" />
 </p>
 
+<br>
+
 <div align="center"> 
   <h2>💻 Tech Stack:</h2>
 </div>
@@ -20,6 +22,8 @@
     <img src="https://skillicons.dev/icons?i=md,html,css" />
 </p>
 
+<br>
+
 <div align="center"> 
   <h2>💻 Tools:</h2>
 </div>
@@ -27,6 +31,8 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=idea,vscode,github,ps,pr,figma" />
 </p>
+
+<br>
 
 <div align="center"> 
   <h2>📊 Stats:</h2>
