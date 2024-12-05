@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,js,react" />
+    <img src="https://skillicons.dev/icons?i=java,js,tailwind,react" />
 </p>
 
 <br>
