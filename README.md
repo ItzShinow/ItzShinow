@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Melvin...;Also+known+as+Shinow." alt="Typing SVG" />
 </h1>
 
-
 <div align="center"> 
   <h2>📖 Learning:</h2>
 </div>
@@ -43,9 +42,9 @@
 
 <div align="center">
   <a href="https://discord.com/users/572043032585830403">
-    <img src="https://lanyard.cnrad.dev/api/572043032585830403" height="120" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/572043032585830403" height="150" alt="Discord Presence" />
   </a>
-  <a hred="https://open.spotify.com/user/31usjd2c4fwkak7r4la5mqxv6tuu?si=6e6ed892d99648c4">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31usjd2c4fwkak7r4la5mqxv6tuu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=false" />
+  <a href="https://open.spotify.com/user/31usjd2c4fwkak7r4la5mqxv6tuu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31usjd2c4fwkak7r4la5mqxv6tuu&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
