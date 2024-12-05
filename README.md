@@ -2,12 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Melvin...;Also+known+as+Shinow." alt="Typing SVG" />
 </h1>
 
+<br>
+
 <div align="center"> 
   <h2>📖 Learning:</h2>
 </div>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,js,blender" />
+    <img src="https://skillicons.dev/icons?i=java,js,react" />
 </p>
 
 <div align="center"> 
@@ -15,7 +17,7 @@
 </div>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css" />
+    <img src="https://skillicons.dev/icons?i=md,html,css" />
 </p>
 
 <div align="center"> 
@@ -42,7 +44,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/572043032585830403">
-    <img src="https://lanyard.cnrad.dev/api/572043032585830403" height="150" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/572043032585830403" alt="Discord Presence" />
   </a>
   <a href="https://open.spotify.com/user/31usjd2c4fwkak7r4la5mqxv6tuu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31usjd2c4fwkak7r4la5mqxv6tuu&count=3&unique=true" alt="Spotify recently played"  />
